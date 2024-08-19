@@ -1,0 +1,306 @@
+
+speed.jpg
+size: 1942,1855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: true
+  xy: 163, 1654
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+jiasudongxiao/fs_glow_b_00
+  rotate: true
+  xy: 465, 1625
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_01
+  rotate: true
+  xy: 1200, 1625
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_02
+  rotate: true
+  xy: 237, 1394
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_03
+  rotate: true
+  xy: 972, 1394
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_04
+  rotate: true
+  xy: 237, 1163
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_05
+  rotate: true
+  xy: 972, 1163
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_06
+  rotate: true
+  xy: 237, 932
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_07
+  rotate: true
+  xy: 972, 932
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_08
+  rotate: true
+  xy: 237, 701
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_09
+  rotate: true
+  xy: 972, 701
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_10
+  rotate: true
+  xy: 237, 470
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_11
+  rotate: true
+  xy: 237, 239
+  size: 229, 737
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_12
+  rotate: true
+  xy: 237, 8
+  size: 229, 735
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_14
+  rotate: true
+  xy: 972, 470
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasutexiao/fs_glow_a_00
+  rotate: false
+  xy: 1, 1422
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_01
+  rotate: false
+  xy: 1707, 1393
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_02
+  rotate: false
+  xy: 1, 1190
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_03
+  rotate: false
+  xy: 1707, 1161
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_04
+  rotate: false
+  xy: 1, 958
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_05
+  rotate: false
+  xy: 1707, 929
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_06
+  rotate: false
+  xy: 1, 726
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_07
+  rotate: false
+  xy: 1707, 697
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_08
+  rotate: false
+  xy: 1, 494
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_09
+  rotate: false
+  xy: 1707, 465
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_10
+  rotate: false
+  xy: 1, 262
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_11
+  rotate: false
+  xy: 976, 238
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_12
+  rotate: false
+  xy: 1212, 238
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_13
+  rotate: false
+  xy: 1448, 238
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_14
+  rotate: false
+  xy: 1684, 233
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_15
+  rotate: false
+  xy: 1, 30
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_16
+  rotate: false
+  xy: 974, 6
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_17
+  rotate: false
+  xy: 1210, 6
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_18
+  rotate: false
+  xy: 1446, 6
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+jiasutexiao/fs_glow_a_19
+  rotate: false
+  xy: 1682, 1
+  size: 234, 230
+  orig: 266, 256
+  offset: 16, 22
+  index: -1
+o
+  rotate: false
+  xy: 1, 1694
+  size: 160, 160
+  orig: 300, 300
+  offset: 63, 57
+  index: -1
+
+speed2.jpg
+size: 1474,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiasudongxiao/fs_glow_b_13
+  rotate: true
+  xy: 1, 463
+  size: 229, 737
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_15
+  rotate: true
+  xy: 740, 463
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_16
+  rotate: true
+  xy: 1, 232
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_17
+  rotate: true
+  xy: 736, 232
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_18
+  rotate: true
+  xy: 1, 1
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1
+jiasudongxiao/fs_glow_b_19
+  rotate: true
+  xy: 736, 1
+  size: 229, 733
+  orig: 301, 797
+  offset: 51, 27
+  index: -1

@@ -1,0 +1,557 @@
+
+feat_wild.png
+size: 2029,2030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_ewild_000
+  rotate: false
+  xy: 246, 597
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_001
+  rotate: true
+  xy: 488, 1854
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_002
+  rotate: true
+  xy: 488, 1678
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_003
+  rotate: true
+  xy: 1237, 1854
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_004
+  rotate: true
+  xy: 488, 1502
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_005
+  rotate: true
+  xy: 1237, 1678
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_006
+  rotate: true
+  xy: 1237, 1502
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_007
+  rotate: true
+  xy: 488, 1326
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_008
+  rotate: true
+  xy: 1237, 1326
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_009
+  rotate: true
+  xy: 422, 1150
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_010
+  rotate: true
+  xy: 422, 974
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_011
+  rotate: true
+  xy: 1171, 1150
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_012
+  rotate: true
+  xy: 422, 798
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_013
+  rotate: true
+  xy: 1171, 974
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_014
+  rotate: true
+  xy: 422, 622
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_015
+  rotate: true
+  xy: 1171, 798
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_016
+  rotate: true
+  xy: 1171, 622
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_017
+  rotate: true
+  xy: 422, 446
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_018
+  rotate: true
+  xy: 1171, 446
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_019
+  rotate: true
+  xy: 246, 270
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_020
+  rotate: true
+  xy: 995, 270
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_021
+  rotate: true
+  xy: 246, 94
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_022
+  rotate: true
+  xy: 995, 94
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_guide_frame
+  rotate: false
+  xy: 2, 1148
+  size: 242, 880
+  orig: 242, 880
+  offset: 0, 0
+  index: -1
+f_w_bg
+  rotate: false
+  xy: 2, 266
+  size: 242, 880
+  orig: 242, 880
+  offset: 0, 0
+  index: -1
+f_w_body
+  rotate: false
+  xy: 246, 1346
+  size: 240, 682
+  orig: 240, 682
+  offset: 0, 0
+  index: -1
+f_w_hairbR
+  rotate: true
+  xy: 246, 2
+  size: 90, 202
+  orig: 90, 202
+  offset: 0, 0
+  index: -1
+f_w_hairf02
+  rotate: true
+  xy: 246, 455
+  size: 140, 170
+  orig: 140, 170
+  offset: 0, 0
+  index: -1
+f_w_head
+  rotate: true
+  xy: 1744, 30
+  size: 170, 212
+  orig: 170, 212
+  offset: 0, 0
+  index: -1
+f_w_laser_b01
+  rotate: true
+  xy: 1920, 603
+  size: 233, 95
+  orig: 233, 95
+  offset: 0, 0
+  index: -1
+f_w_laser_b02
+  rotate: true
+  xy: 1920, 1082
+  size: 242, 107
+  orig: 242, 107
+  offset: 0, 0
+  index: -1
+f_w_laser_b03
+  rotate: true
+  xy: 1920, 838
+  size: 242, 95
+  orig: 242, 95
+  offset: 0, 0
+  index: -1
+f_w_laser_f01
+  rotate: false
+  xy: 2, 64
+  size: 242, 200
+  orig: 242, 200
+  offset: 0, 0
+  index: -1
+f_w_laser_f02
+  rotate: true
+  xy: 1744, 202
+  size: 242, 194
+  orig: 242, 194
+  offset: 0, 0
+  index: -1
+
+feat_wild2.png
+size: 1938,2028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_ewild_023
+  rotate: false
+  xy: 2, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_024
+  rotate: false
+  xy: 2, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_025
+  rotate: false
+  xy: 178, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_026
+  rotate: false
+  xy: 178, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_027
+  rotate: false
+  xy: 354, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_028
+  rotate: false
+  xy: 354, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_029
+  rotate: false
+  xy: 530, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_030
+  rotate: false
+  xy: 530, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_031
+  rotate: false
+  xy: 706, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_032
+  rotate: false
+  xy: 706, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_033
+  rotate: true
+  xy: 2, 354
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_034
+  rotate: false
+  xy: 882, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_035
+  rotate: true
+  xy: 2, 178
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_036
+  rotate: false
+  xy: 882, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_000
+  rotate: false
+  xy: 1058, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_001
+  rotate: true
+  xy: 2, 2
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_002
+  rotate: false
+  xy: 1058, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_003
+  rotate: false
+  xy: 1234, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_004
+  rotate: false
+  xy: 1234, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_005
+  rotate: false
+  xy: 1410, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_006
+  rotate: false
+  xy: 1410, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_007
+  rotate: true
+  xy: 751, 354
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_008
+  rotate: false
+  xy: 1586, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_009
+  rotate: true
+  xy: 751, 178
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_010
+  rotate: false
+  xy: 1586, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_011
+  rotate: false
+  xy: 1762, 1279
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_012
+  rotate: true
+  xy: 751, 2
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_013
+  rotate: false
+  xy: 1762, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+f_w_hairbL
+  rotate: false
+  xy: 1500, 362
+  size: 110, 166
+  orig: 110, 166
+  offset: 0, 0
+  index: -1
+f_w_hairf01
+  rotate: false
+  xy: 1612, 395
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+
+feat_wild3.png
+size: 1676,1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_ewild_nw_014
+  rotate: true
+  xy: 2, 882
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_015
+  rotate: true
+  xy: 751, 882
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_016
+  rotate: true
+  xy: 2, 706
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_017
+  rotate: true
+  xy: 751, 706
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_018
+  rotate: true
+  xy: 2, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_019
+  rotate: true
+  xy: 751, 530
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_020
+  rotate: true
+  xy: 2, 354
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_021
+  rotate: true
+  xy: 751, 354
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_022
+  rotate: false
+  xy: 1500, 309
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_023
+  rotate: true
+  xy: 2, 178
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_024
+  rotate: true
+  xy: 751, 178
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_025
+  rotate: true
+  xy: 2, 2
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1
+_ewild_nw_026
+  rotate: true
+  xy: 751, 2
+  size: 174, 747
+  orig: 174, 747
+  offset: 0, 0
+  index: -1

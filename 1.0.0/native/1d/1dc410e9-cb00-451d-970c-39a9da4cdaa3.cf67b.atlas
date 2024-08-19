@@ -1,0 +1,214 @@
+
+freebg.png
+size: 1859,2019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bobaokuangjinbi/tw_vfx_a_normal_00
+  rotate: true
+  xy: 1319, 1906
+  size: 112, 140
+  orig: 216, 468
+  offset: 53, 166
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_01
+  rotate: true
+  xy: 1461, 1855
+  size: 163, 204
+  orig: 216, 468
+  offset: 32, 131
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_02
+  rotate: true
+  xy: 767, 1718
+  size: 206, 267
+  orig: 216, 468
+  offset: 10, 91
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_03
+  rotate: true
+  xy: 1036, 1688
+  size: 216, 342
+  orig: 216, 468
+  offset: 0, 43
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_04
+  rotate: true
+  xy: 1380, 1620
+  size: 216, 416
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_05
+  rotate: true
+  xy: 1, 1750
+  size: 181, 273
+  orig: 216, 468
+  offset: 35, 180
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_06
+  rotate: true
+  xy: 276, 1742
+  size: 186, 292
+  orig: 216, 468
+  offset: 30, 176
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_07
+  rotate: false
+  xy: 1667, 1838
+  size: 191, 180
+  orig: 216, 468
+  offset: 25, 173
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_08
+  rotate: false
+  xy: 570, 1736
+  size: 195, 190
+  orig: 216, 468
+  offset: 21, 174
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_09
+  rotate: true
+  xy: 1, 1935
+  size: 83, 197
+  orig: 216, 468
+  offset: 17, 175
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_10
+  rotate: true
+  xy: 200, 1933
+  size: 85, 206
+  orig: 216, 468
+  offset: 13, 172
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_11
+  rotate: true
+  xy: 408, 1930
+  size: 88, 214
+  orig: 216, 468
+  offset: 9, 169
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_12
+  rotate: true
+  xy: 624, 1928
+  size: 90, 222
+  orig: 216, 468
+  offset: 6, 163
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_13
+  rotate: true
+  xy: 848, 1926
+  size: 92, 230
+  orig: 216, 468
+  offset: 3, 159
+  index: -1
+bobaokuangjinbi/tw_vfx_a_normal_14
+  rotate: true
+  xy: 1080, 1924
+  size: 94, 237
+  orig: 216, 468
+  offset: 0, 157
+  index: -1
+mianfeijiemianUI/bl_bg_03
+  rotate: false
+  xy: 759, 433
+  size: 756, 643
+  orig: 756, 775
+  offset: 0, 0
+  index: -1
+mianfeijiemianUI/tw_bg_02
+  rotate: false
+  xy: 1, 691
+  size: 756, 593
+  orig: 756, 623
+  offset: 0, 0
+  index: -1
+mianfeijiemianUI/tw_bg_03
+  rotate: true
+  xy: 897, 1078
+  size: 540, 579
+  orig: 540, 579
+  offset: 0, 0
+  index: -1
+mianfeijiemianUI/tw_bg_04
+  rotate: false
+  xy: 1, 1
+  size: 756, 688
+  orig: 756, 688
+  offset: 0, 0
+  index: -1
+mianfeijiemianUI/tw_bg_05
+  rotate: false
+  xy: 431, 1286
+  size: 464, 430
+  orig: 464, 430
+  offset: 0, 0
+  index: -1
+mianfeijiemianUI/tw_bg_06
+  rotate: true
+  xy: 1, 1467
+  size: 273, 428
+  orig: 273, 428
+  offset: 0, 0
+  index: -1
+
+freebg2.png
+size: 1615,1466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiemianUI/bl_bg_02
+  rotate: true
+  xy: 1, 709
+  size: 756, 855
+  orig: 756, 938
+  offset: 0, 0
+  index: -1
+mianfeikaishibeijin2
+  rotate: false
+  xy: 858, 1
+  size: 756, 1464
+  orig: 756, 1464
+  offset: 0, 0
+  index: -1
+
+freebg3.png
+size: 758,1640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_bg_01
+  rotate: false
+  xy: 1, 1
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+
+freebg4.jpg
+size: 782,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao/bl_vfx_b_add
+  rotate: false
+  xy: 1, 1
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+texiao/bw_vfx_e_add
+  rotate: true
+  xy: 327, 83
+  size: 242, 240
+  orig: 242, 240
+  offset: 0, 0
+  index: -1
+texiao/fsw_num_shine
+  rotate: false
+  xy: 569, 91
+  size: 212, 234
+  orig: 212, 234
+  offset: 0, 0
+  index: -1
+

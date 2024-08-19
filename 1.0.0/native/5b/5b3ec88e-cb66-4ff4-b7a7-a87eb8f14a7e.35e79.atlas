@@ -1,0 +1,41 @@
+
+bg.png
+size: 758,1640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxibbeijintu
+  rotate: false
+  xy: 1, 1
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+
+
+bg2.jpg
+size: 396,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_laser_a
+  rotate: false
+  xy: 1, 1
+  size: 130, 818
+  orig: 130, 818
+  offset: 0, 0
+  index: -1
+ui_laser_b
+  rotate: false
+  xy: 133, 1
+  size: 130, 818
+  orig: 130, 818
+  offset: 0, 0
+  index: -1
+ui_laser_c
+  rotate: false
+  xy: 265, 1
+  size: 130, 818
+  orig: 130, 818
+  offset: 0, 0
+  index: -1

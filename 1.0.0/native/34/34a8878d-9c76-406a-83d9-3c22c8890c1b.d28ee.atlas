@@ -1,0 +1,328 @@
+
+button.jpg
+size: 1952,1564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_00
+  rotate: false
+  xy: 642, 238
+  size: 234, 263
+  orig: 460, 433
+  offset: 116, 87
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_01
+  rotate: false
+  xy: 376, 206
+  size: 264, 295
+  orig: 460, 433
+  offset: 100, 73
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_02
+  rotate: true
+  xy: 378, 503
+  size: 288, 323
+  orig: 460, 433
+  offset: 88, 61
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_03
+  rotate: false
+  xy: 1462, 851
+  size: 314, 349
+  orig: 460, 433
+  offset: 75, 50
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_04
+  rotate: true
+  xy: 1, 8
+  size: 336, 373
+  orig: 460, 433
+  offset: 64, 40
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_05
+  rotate: false
+  xy: 378, 793
+  size: 356, 387
+  orig: 460, 433
+  offset: 53, 32
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_06
+  rotate: true
+  xy: 1105, 820
+  size: 372, 355
+  orig: 460, 433
+  offset: 45, 26
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_07
+  rotate: true
+  xy: 736, 798
+  size: 386, 367
+  orig: 460, 433
+  offset: 36, 21
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_08
+  rotate: false
+  xy: 829, 1194
+  size: 398, 369
+  orig: 460, 433
+  offset: 29, 24
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_09
+  rotate: false
+  xy: 1229, 1202
+  size: 406, 361
+  orig: 460, 433
+  offset: 24, 36
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_10
+  rotate: true
+  xy: 1, 346
+  size: 412, 369
+  orig: 460, 433
+  offset: 19, 32
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_11
+  rotate: true
+  xy: 1, 760
+  size: 420, 375
+  orig: 460, 433
+  offset: 15, 29
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_12
+  rotate: false
+  xy: 421, 1186
+  size: 406, 377
+  orig: 460, 433
+  offset: 14, 30
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_13
+  rotate: false
+  xy: 1, 1182
+  size: 418, 381
+  orig: 460, 433
+  offset: 8, 26
+  index: -1
+4b5757d7-71bb-45d2-9671-9974caa4f45e.bc708_unpack/sb_particle_14
+  rotate: false
+  xy: 1637, 1204
+  size: 314, 359
+  orig: 460, 433
+  offset: 88, 50
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_00
+  rotate: false
+  xy: 376, 29
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_01
+  rotate: false
+  xy: 1778, 1027
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_02
+  rotate: false
+  xy: 1778, 850
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_03
+  rotate: false
+  xy: 547, 29
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_04
+  rotate: false
+  xy: 703, 616
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_05
+  rotate: false
+  xy: 874, 621
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_06
+  rotate: false
+  xy: 1045, 621
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_07
+  rotate: false
+  xy: 1216, 643
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_08
+  rotate: false
+  xy: 1387, 643
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_09
+  rotate: false
+  xy: 1558, 674
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_10
+  rotate: true
+  xy: 1729, 679
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_11
+  rotate: false
+  xy: 878, 444
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_12
+  rotate: false
+  xy: 878, 267
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_13
+  rotate: false
+  xy: 1049, 444
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+6c9e3339-523c-454c-a2e9-2616255db20e.8ba3b_unpack/sb_auto_hover_14
+  rotate: false
+  xy: 1049, 267
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+texiao/sb_glow_b
+  rotate: false
+  xy: 718, 1
+  size: 231, 235
+  orig: 231, 235
+  offset: 0, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_00
+  rotate: false
+  xy: 1729, 521
+  size: 158, 156
+  orig: 166, 168
+  offset: 5, 6
+  index: -1
+xuanzhuantexiao/sb_spin_hover_01
+  rotate: false
+  xy: 1785, 177
+  size: 162, 162
+  orig: 166, 168
+  offset: 3, 3
+  index: -1
+xuanzhuantexiao/sb_spin_hover_02
+  rotate: false
+  xy: 1554, 341
+  size: 164, 164
+  orig: 166, 168
+  offset: 2, 2
+  index: -1
+xuanzhuantexiao/sb_spin_hover_03
+  rotate: false
+  xy: 1220, 473
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_04
+  rotate: false
+  xy: 1220, 303
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_05
+  rotate: false
+  xy: 1387, 473
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_06
+  rotate: false
+  xy: 1387, 303
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_07
+  rotate: false
+  xy: 951, 97
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_08
+  rotate: false
+  xy: 1118, 97
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_09
+  rotate: false
+  xy: 1285, 133
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_10
+  rotate: false
+  xy: 1452, 133
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_11
+  rotate: true
+  xy: 1558, 507
+  size: 165, 168
+  orig: 166, 168
+  offset: 1, 0
+  index: -1
+xuanzhuantexiao/sb_spin_hover_12
+  rotate: false
+  xy: 1619, 175
+  size: 164, 164
+  orig: 166, 168
+  offset: 2, 2
+  index: -1
+xuanzhuantexiao/sb_spin_hover_13
+  rotate: false
+  xy: 1720, 341
+  size: 164, 164
+  orig: 166, 168
+  offset: 2, 2
+  index: -1
+xuanzhuantexiao/sb_spin_hover_14
+  rotate: false
+  xy: 1619, 15
+  size: 160, 158
+  orig: 166, 168
+  offset: 4, 5
+  index: -1

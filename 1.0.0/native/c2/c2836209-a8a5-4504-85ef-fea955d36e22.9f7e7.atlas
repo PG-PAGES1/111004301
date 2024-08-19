@@ -1,0 +1,564 @@
+
+wild.jpg
+size: 2040,2019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidabiankuanggunagxiao/wf_idle_glow_00
+  rotate: true
+  xy: 645, 1657
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_01
+  rotate: true
+  xy: 251, 1460
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_02
+  rotate: true
+  xy: 1020, 1431
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_03
+  rotate: true
+  xy: 1, 1263
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_04
+  rotate: true
+  xy: 770, 1234
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_05
+  rotate: true
+  xy: 1, 1066
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_06
+  rotate: true
+  xy: 770, 1037
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_07
+  rotate: true
+  xy: 1, 869
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_08
+  rotate: true
+  xy: 770, 840
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_09
+  rotate: true
+  xy: 1, 672
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_10
+  rotate: true
+  xy: 770, 643
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_11
+  rotate: true
+  xy: 1, 475
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_12
+  rotate: true
+  xy: 770, 446
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+baidabiankuanggunagxiao/wf_idle_glow_13
+  rotate: true
+  xy: 1, 278
+  size: 195, 767
+  orig: 195, 767
+  offset: 0, 0
+  index: -1
+frame/wf_spawn_sweep_00
+  rotate: true
+  xy: 538, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+frame/wf_spawn_sweep_01
+  rotate: true
+  xy: 730, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+frame/wf_spawn_sweep_02
+  rotate: true
+  xy: 922, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+frame/wf_spawn_sweep_03
+  rotate: true
+  xy: 1114, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+frame/wf_spawn_sweep_04
+  rotate: true
+  xy: 1306, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+frame/wf_spawn_sweep_05
+  rotate: true
+  xy: 1498, 1854
+  size: 164, 190
+  orig: 186, 208
+  offset: 12, 15
+  index: -1
+ps_glow_a
+  rotate: false
+  xy: 1690, 1846
+  size: 182, 172
+  orig: 182, 172
+  offset: 0, 0
+  index: -1
+star/bns_mtp_particle_00
+  rotate: false
+  xy: 264, 1922
+  size: 108, 96
+  orig: 268, 236
+  offset: 86, 70
+  index: -1
+star/bns_mtp_particle_01
+  rotate: false
+  xy: 374, 1874
+  size: 162, 144
+  orig: 268, 236
+  offset: 57, 48
+  index: -1
+star/bns_mtp_particle_02
+  rotate: false
+  xy: 1, 1773
+  size: 196, 174
+  orig: 268, 236
+  offset: 39, 35
+  index: -1
+star/bns_mtp_particle_03
+  rotate: false
+  xy: 423, 1660
+  size: 220, 192
+  orig: 268, 236
+  offset: 26, 26
+  index: -1
+star/bns_mtp_particle_04
+  rotate: false
+  xy: 1414, 1646
+  size: 234, 206
+  orig: 268, 236
+  offset: 18, 18
+  index: -1
+star/bns_mtp_particle_05
+  rotate: false
+  xy: 1650, 1628
+  size: 244, 216
+  orig: 268, 236
+  offset: 12, 12
+  index: -1
+star/bns_mtp_particle_06
+  rotate: false
+  xy: 1, 1468
+  size: 248, 220
+  orig: 268, 236
+  offset: 10, 9
+  index: -1
+star/bns_mtp_particle_07
+  rotate: true
+  xy: 1539, 1177
+  size: 252, 226
+  orig: 268, 236
+  offset: 8, 5
+  index: -1
+star/bns_mtp_particle_08
+  rotate: false
+  xy: 1767, 1174
+  size: 254, 226
+  orig: 268, 236
+  offset: 7, 4
+  index: -1
+star/bns_mtp_particle_09
+  rotate: false
+  xy: 1539, 716
+  size: 256, 228
+  orig: 268, 236
+  offset: 6, 2
+  index: -1
+star/bns_mtp_particle_10
+  rotate: true
+  xy: 1797, 658
+  size: 258, 228
+  orig: 268, 236
+  offset: 5, 1
+  index: -1
+star/bns_mtp_particle_11
+  rotate: true
+  xy: 1539, 456
+  size: 258, 228
+  orig: 268, 236
+  offset: 5, 0
+  index: -1
+star/bns_mtp_particle_12
+  rotate: false
+  xy: 1769, 428
+  size: 258, 228
+  orig: 268, 236
+  offset: 5, 0
+  index: -1
+star/bns_mtp_particle_13
+  rotate: false
+  xy: 1539, 946
+  size: 256, 226
+  orig: 268, 236
+  offset: 5, 0
+  index: -1
+star/bns_mtp_particle_14
+  rotate: true
+  xy: 1797, 918
+  size: 254, 226
+  orig: 268, 236
+  offset: 6, 0
+  index: -1
+star/bns_mtp_particle_15
+  rotate: false
+  xy: 1789, 1402
+  size: 250, 224
+  orig: 268, 236
+  offset: 8, 0
+  index: -1
+star/bns_mtp_particle_16
+  rotate: true
+  xy: 199, 1690
+  size: 182, 222
+  orig: 268, 236
+  offset: 7, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_00
+  rotate: false
+  xy: 1, 1949
+  size: 261, 69
+  orig: 323, 848
+  offset: 35, 779
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_01
+  rotate: false
+  xy: 1650, 157
+  size: 323, 269
+  orig: 323, 848
+  offset: 0, 579
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_15
+  rotate: true
+  xy: 770, 178
+  size: 266, 878
+  orig: 284, 916
+  offset: 4, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_00
+  rotate: false
+  xy: 1, 1
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+
+wild2.jpg
+size: 1833,2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuxianbaidabiankuang/wf_midreel_border_03
+  rotate: false
+  xy: 1, 1192
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_04
+  rotate: false
+  xy: 1, 1192
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_05
+  rotate: false
+  xy: 1, 1192
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_06
+  rotate: false
+  xy: 1, 1192
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_07
+  rotate: false
+  xy: 1, 342
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_08
+  rotate: false
+  xy: 326, 1192
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_09
+  rotate: false
+  xy: 326, 342
+  size: 323, 848
+  orig: 323, 848
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_10
+  rotate: false
+  xy: 651, 1192
+  size: 322, 848
+  orig: 323, 848
+  offset: 1, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_11
+  rotate: false
+  xy: 651, 342
+  size: 322, 848
+  orig: 323, 848
+  offset: 1, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_12
+  rotate: false
+  xy: 975, 328
+  size: 295, 830
+  orig: 323, 848
+  offset: 17, 6
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_02
+  rotate: false
+  xy: 1272, 282
+  size: 279, 876
+  orig: 284, 916
+  offset: 5, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_03
+  rotate: false
+  xy: 1541, 1164
+  size: 283, 876
+  orig: 284, 916
+  offset: 1, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_04
+  rotate: true
+  xy: 1, 57
+  size: 283, 880
+  orig: 284, 916
+  offset: 1, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_05
+  rotate: false
+  xy: 975, 1160
+  size: 281, 880
+  orig: 284, 916
+  offset: 3, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_06
+  rotate: false
+  xy: 1258, 1160
+  size: 281, 880
+  orig: 284, 916
+  offset: 3, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_07
+  rotate: false
+  xy: 1553, 282
+  size: 279, 880
+  orig: 284, 916
+  offset: 5, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_09
+  rotate: true
+  xy: 883, 1
+  size: 279, 880
+  orig: 284, 916
+  offset: 5, 0
+  index: -1
+
+wild3.jpg
+size: 2024,1852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_vfx_b_add
+  rotate: false
+  xy: 831, 973
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+fs_scatter_shine
+  rotate: false
+  xy: 815, 1
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_border_02
+  rotate: false
+  xy: 815, 392
+  size: 323, 579
+  orig: 323, 848
+  offset: 0, 269
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_08
+  rotate: false
+  xy: 282, 973
+  size: 277, 878
+  orig: 284, 916
+  offset: 7, 2
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_10
+  rotate: false
+  xy: 1, 971
+  size: 279, 880
+  orig: 284, 916
+  offset: 5, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_11
+  rotate: false
+  xy: 1, 89
+  size: 270, 880
+  orig: 284, 916
+  offset: 4, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_12
+  rotate: false
+  xy: 543, 93
+  size: 270, 878
+  orig: 284, 916
+  offset: 2, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_13
+  rotate: false
+  xy: 273, 89
+  size: 268, 880
+  orig: 284, 916
+  offset: 3, 0
+  index: -1
+wuxianbaidabiankuang/wf_midreel_glow_14
+  rotate: false
+  xy: 561, 973
+  size: 268, 878
+  orig: 284, 916
+  offset: 3, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_01
+  rotate: false
+  xy: 1206, 1576
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_02
+  rotate: true
+  xy: 1748, 1311
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_03
+  rotate: false
+  xy: 1206, 1299
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_04
+  rotate: true
+  xy: 1748, 769
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_05
+  rotate: false
+  xy: 1206, 1022
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_06
+  rotate: false
+  xy: 1206, 745
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_07
+  rotate: true
+  xy: 1748, 227
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_08
+  rotate: false
+  xy: 1206, 468
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_09
+  rotate: false
+  xy: 1206, 191
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1
+wuxianbaidaguang/fs_btm_glow_10
+  rotate: true
+  xy: 831, 1311
+  size: 540, 275
+  orig: 540, 275
+  offset: 0, 0
+  index: -1

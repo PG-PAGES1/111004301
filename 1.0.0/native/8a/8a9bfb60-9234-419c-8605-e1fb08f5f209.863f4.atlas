@@ -1,0 +1,140 @@
+
+win.jpg
+size: 1160,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/texiao/bl_vfx_a_screen
+  rotate: false
+  xy: 705, 20
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/texiao/bw_vfx_c_screen_01
+  rotate: true
+  xy: 1, 1
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+images/texiao/bw_vfx_c_screen_02
+  rotate: true
+  xy: 1, 327
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+images/texiao/fs_scatter_shine
+  rotate: false
+  xy: 705, 262
+  size: 389, 389
+  orig: 389, 389
+  offset: 0, 0
+  index: -1
+images/texiao/fsw_num_shine
+  rotate: false
+  xy: 947, 26
+  size: 212, 234
+  orig: 212, 234
+  offset: 0, 0
+  index: -1
+
+
+win1.png
+size: 2007,1553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijing/bigwin_01
+  rotate: true
+  xy: 759, 129
+  size: 596, 607
+  orig: 597, 607
+  offset: 1, 0
+  index: -1
+images/beijing/bigwin_02
+  rotate: true
+  xy: 1670, 242
+  size: 350, 324
+  orig: 350, 325
+  offset: 0, 1
+  index: -1
+images/beijing/bigwin_03
+  rotate: true
+  xy: 1, 280
+  size: 167, 705
+  orig: 174, 705
+  offset: 7, 0
+  index: -1
+images/beijing/bigwin_05
+  rotate: false
+  xy: 1670, 67
+  size: 325, 173
+  orig: 325, 173
+  offset: 0, 0
+  index: -1
+images/beijing/megawin_01
+  rotate: false
+  xy: 759, 727
+  size: 727, 825
+  orig: 727, 825
+  offset: 0, 0
+  index: -1
+images/beijing/megawin_02
+  rotate: false
+  xy: 591, 104
+  size: 120, 174
+  orig: 120, 174
+  offset: 0, 0
+  index: -1
+images/beijing/megawin_03
+  rotate: false
+  xy: 1773, 594
+  size: 233, 958
+  orig: 233, 958
+  offset: 0, 0
+  index: -1
+images/beijing/megawin_04
+  rotate: false
+  xy: 591, 1
+  size: 139, 101
+  orig: 139, 101
+  offset: 0, 0
+  index: -1
+images/beijing/megawin_05
+  rotate: false
+  xy: 458, 1
+  size: 131, 277
+  orig: 131, 277
+  offset: 0, 0
+  index: -1
+images/beijing/supermegawin_01
+  rotate: false
+  xy: 1, 449
+  size: 756, 1103
+  orig: 756, 1103
+  offset: 0, 0
+  index: -1
+images/beijing/supermegawin_03
+  rotate: false
+  xy: 1488, 609
+  size: 283, 943
+  orig: 283, 943
+  offset: 0, 0
+  index: -1
+images/beijing/supermegawin_04
+  rotate: true
+  xy: 1368, 122
+  size: 485, 300
+  orig: 485, 300
+  offset: 0, 0
+  index: -1
+images/beijing/supermegawin_05
+  rotate: false
+  xy: 1, 4
+  size: 455, 274
+  orig: 455, 274
+  offset: 0, 0
+  index: -1
+
